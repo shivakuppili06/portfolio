@@ -25,7 +25,7 @@ resumeUrl: "https://drive.google.com/uc?export=download&id=1W1h78OwCfpMWinMTFdqy
     github: "https://github.com/shivakuppili06",
     linkedin: "https://www.linkedin.com/in/sai-shiva-sagar-kuppili/",
     // TODO: confirm/update your LeetCode handle
-    leetcode: "https://leetcode.com/u/shivakuppili06/",
+    leetcode: "https://leetcode.com/u/07shiva/",
     email: "mailto:shivakuppili06@gmail.com",
   },
 };
